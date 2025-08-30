@@ -33,7 +33,7 @@ jobs:
           distribution: 'temurin'
       - run: mvn --batch-mode --update-snapshots verify
       - run: mkdir staging && cp target/*.jar staging
-      - uses: actions/upload-artifact@v2  # Updated version
+      - uses: actions/upload-artifact@v3  # Updated version
         with:
           name: Package
           path: staging
