@@ -66,10 +66,10 @@
       <recent name="D:\project\spring-boot-sample-project" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.GreeterTest.greeterSaysHello (1)">
+  <component name="RunManager" selected="Application.HelloWorld">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hello.HelloWorld" />
-      <module name="gs-maven" />
+      <module name="spring-aboot-sample-project" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="hello.*" />
@@ -125,9 +125,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HelloWorld" />
         <item itemvalue="JUnit.GreeterTest.greeterSaysHello (1)" />
         <item itemvalue="JUnit.GreeterTest.greeterSaysHello" />
-        <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
   </component>
