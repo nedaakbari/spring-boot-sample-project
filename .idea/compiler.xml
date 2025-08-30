@@ -6,8 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="gs-maven" />
+        <module name="spring-aboot-sample-project" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="gs-maven" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
